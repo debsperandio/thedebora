@@ -214,6 +214,8 @@ p {
 
 .casecontent {
     display: block;
+    margin-left: 78px;
+    margin-right: 78px;
   }
 
 .content_column_left {
