@@ -218,6 +218,15 @@ p {
     margin-right: 78px;
   }
 
+.other_case {
+    display: block;
+    flex-direction: row;
+    align-items: left;
+    margin-left: 78px;
+    margin-right: 78px;
+    columns: auto;
+} 
+
 .content_column_left {
     flex: 50%;
     margin-left: 16px;
@@ -252,11 +261,3 @@ p {
     background-color: #FAFAFA;
   }
 
-  .other_case {
-    display: block;
-    flex-direction: row;
-    align-items: left;
-    margin-left: 78px;
-    margin-right: 78px;
-    columns: auto;
-} 
