@@ -209,6 +209,7 @@ p {
 
 .casecover {
     display: block;
+    background-color: #FAFAFA;
   }
 
 .casecontent {
@@ -248,3 +249,12 @@ p {
     border-top-color: #DDDDDD;
     background-color: #FAFAFA;
   }
+
+  .other_case {
+    display: block;
+    flex-direction: row;
+    align-items: left;
+    margin-left: 78px;
+    margin-right: 78px;
+    columns: auto;
+} 
